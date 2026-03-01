@@ -16,3 +16,7 @@
 12. Then git add-commit-push (we're saving V2 of our data at this point)
 13. Check dvc/git status, everything should be upto date.
 14. Now repeat step 10-12 for v3 of data.
+'git log --oneline'
+copy id u wana back to code sha id
+'git checkout id' to past version data then 'git pull' enter 'git checkout main/master' to present again
+'dvc pull
